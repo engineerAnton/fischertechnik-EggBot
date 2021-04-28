@@ -2,7 +2,7 @@
 
 Робот "ЯйцеБот" собран из конструктора fischertechnik.
 
-В основе моего проекта лежит проект "The Original EggBot"
+В основе проекта лежит проект "The Original EggBot"
 https://github.com/evil-mad/EggBot
 
 Система управления выполнена на двух контроллерах TXT.
