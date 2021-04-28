@@ -16,7 +16,6 @@ https://github.com/evil-mad/EggBot
 ![Манипулятор](https://user-images.githubusercontent.com/83303841/116371011-a3bf4b80-a813-11eb-91d7-726ec79deca5.jpg)
 
 3. Карусельный механизм
-
 ![Карусельный механизм](https://user-images.githubusercontent.com/83303841/116371027-a883ff80-a813-11eb-865d-7ca2b09e2031.jpg)
 
 
